@@ -6,4 +6,4 @@ Criação de um site para a lanchonete cantinho do cheff usando o bootstrap, de 
 
 # Demonstração
 O site está no ar neste link:  
-<a href="https://github.com/leofernandes2169/cantinhodocheff.git" target="_blank">https://github.com/leofernandes2169/cantinhodocheff.git</a>
+<a href="https://cantinhodocheff.000webhostapp.com/" target="_blank">https://cantinhodocheff.000webhostapp.com/</a>
